@@ -9,7 +9,7 @@ if (year==2050){
    let date = 'April'
      console.log(date, 'Family Day');
      console.log(date, 'Freedom day'); 
-     count = 4
+     count = 0 + 4
 }
 
 if (status == 'student') {
